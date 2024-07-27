@@ -1,0 +1,5 @@
+
+---
+bool    last_goal
+float64 next_x
+float64 next_y
